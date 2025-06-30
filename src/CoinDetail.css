@@ -1,0 +1,11 @@
+.coin-detail {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.coin-detail img {
+  height: 100px;
+  margin: 1rem 0;
+}
